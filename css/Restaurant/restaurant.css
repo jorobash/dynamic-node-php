@@ -1,0 +1,46 @@
+.forma{
+	width: 21%;
+	margin-top: 1%;
+}
+
+.panel {
+	float: right;
+	width: 55%;
+	margin-right: 0px;
+	display: inline-block;
+	margin-top: -80px;
+}
+
+.forma {
+	display: inline-block;
+}
+
+.panel input {
+	margin-left: 50px;
+}
+
+.edit-form{
+	width: 70%;
+    margin-left: 40px;
+}
+.table-table{
+	display: inline-block;
+	background-color: #4286f4;
+	height: 32px;
+	width: 71px;
+	border-radius: 25px;
+	text-align: center;
+	padding: 6px;
+}
+
+.table-table>a{
+	color: white;	
+}
+
+.table-table>a:hover{
+	text-decoration: none;
+}
+.tables{
+	margin-top: 24%;
+	margin-left: 30%;
+}
